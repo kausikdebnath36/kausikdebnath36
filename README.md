@@ -2,4 +2,4 @@
 - 👀 I’m interested in facing new challanges and find solution for it.
 - 🌱 I’m currently working on Spring Boot Project.
 - 💞️ I’m looking to collaborate on any Spring MVC/ Spring Boot project.
-- 📫 How to reach me ... message me on kausikdebnath1920@gmail.com
+- 📫 How to reach me ... message me on kausik.debnath@outlook.com
